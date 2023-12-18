@@ -1,5 +1,9 @@
 # Text-Editor
 
+Small Shitty Editor I made to practice my F# skills
+It isn't supposed to be good tbh, its just a sucky thing
+
+
 
 # Commands
 
