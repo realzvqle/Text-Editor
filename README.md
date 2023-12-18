@@ -3,6 +3,9 @@
 Small Shitty Editor I made to practice my F# skills
 It isn't supposed to be good tbh, its just a sucky thing
 
+# YOU MUST HAVE .NET INSTALLED TO RUN!!!
+just know
+
 
 
 # Commands
