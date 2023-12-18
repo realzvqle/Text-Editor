@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Text_Editor</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="texteditortype.fs" />
+    <Compile Include="filewriter.fs" />
+    <Compile Include="texteditmain.fs" />
+    <Compile Include="mainloop.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
