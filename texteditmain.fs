@@ -39,7 +39,6 @@ let rec texteditmain i (textedittype: TextEditor) =
                    with | ex -> 
                             printfn "Failed Writing File"
 
-            //printfn "%A" stringarr.Content
-            // Use stringarr.index instead of index in the recursive call
+            
             texteditmain 0 textedittype
 
